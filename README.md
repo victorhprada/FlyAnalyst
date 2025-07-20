@@ -119,7 +119,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 📧 Contato
 
-Para questões comerciais ou técnicas, entre em contato através de [seu-email@dominio.com]
+Para questões comerciais ou técnicas, entre em contato através de [victorhugopteixeira3326@gmail.com]
 
 ---
 Desenvolvido com ❤️ para otimização de operações aeroportuárias
